@@ -1,0 +1,8 @@
+module PairDay
+
+import bool
+import days
+
+
+data interpretation = mkPair days bool
+
